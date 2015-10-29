@@ -1,0 +1,10 @@
+{
+  "name":"simple-salesforce-soap-server",
+  "scripts":{},
+  "env":{
+    "JAVA_OPTS":{
+      "required":true
+    }
+  },
+  "addons":[]
+}
