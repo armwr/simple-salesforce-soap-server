@@ -1,0 +1,14 @@
+{
+  "name": "Simple SOAP Server",
+  "description": "Name says it all.",
+  "keywords": [
+    "java",
+    "soap"
+    ,"server"
+  ],
+  "website": "https://github.com/jeffdonthemic/simple-salesforce-soap-server",
+  "repository": "https://github.com/jeffdonthemic/simple-salesforce-soap-server.git",
+  "env": {},
+  "addons": [],
+  "image": "heroku/nodejs"
+}
