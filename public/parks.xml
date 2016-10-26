@@ -50,7 +50,7 @@
   </wsdl:binding>
   <wsdl:service name="ParksImplService">
     <wsdl:port binding="tns:ParksImplServiceSoapBinding" name="ParksImplPort">
-      <soap:address location="https://th-apex-soap-service.herokuapp.com/service/parks"/>
+      <soap:address location="https://simple-salesforce-soap-server.herokuapp.com/service/parks"/>
     </wsdl:port>
   </wsdl:service>
 </wsdl:definitions>

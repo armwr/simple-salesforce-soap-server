@@ -1,4 +1,4 @@
-name := "th-apex-soap-service"
+name := "simple-salesforce-soap-server"
 
 version := "1.0-SNAPSHOT"
 
